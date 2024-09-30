@@ -1,5 +1,5 @@
 {
-    "name": "custom/vdm_openid_connect",
+    "name": "vendor/vdm_openid_connect",
     "description": "Provides an integration with Openid Connection Module",
     "type": "drupal-module",
     "version": "1.0.0",
