@@ -1,0 +1,7 @@
+name: 'VDM OpenID Connect'
+type: module
+description: 'Web sign in with OpenID Connect in Azure Active Directory B2C'
+core_version_requirement: ^9 || ^10 || ^11
+package: 'VDM'
+dependencies:
+  - drupal:openid_connect
